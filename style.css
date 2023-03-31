@@ -1,0 +1,28 @@
+.heading {
+    font-family: 'Itim', cursive;
+    font-size: larger;
+    width: fit-content;
+ }
+ .note {
+     color: black;
+ }
+ #footer {
+     position: fixed;
+     bottom: 0;
+     width: 100%;
+     text-align: center;
+     background: grey;
+     color: white;
+     line-height: 2;
+     font-size: medium;
+     font-family: 'Itim', cursive;
+ }
+ canvas{
+     border: 5px solid black;
+     border-radius: 20px;
+     
+     
+ }
+ #lab{
+    color: white;
+ }
